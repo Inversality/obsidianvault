@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ef16a5807f620b29","x":-72,"y":-166,"width":250,"height":60,"type":"text","text":"Prompt"},
+		{"id":"f44c18476564f29f","x":-72,"y":60,"width":250,"height":60,"type":"text","text":"Image Generation\n"},
+		{"id":"4a24071b3eb3561a","x":-74,"y":240,"width":250,"height":60,"type":"text","text":"CV"},
+		{"id":"a87b59aaaabe9012","x":280,"y":240,"width":250,"height":60,"type":"text","text":"Camera\n"},
+		{"id":"bb06f3d962967228","x":-79,"y":437,"width":250,"height":60,"type":"text","text":"Play MAGA Song\n"}
+	],
+	"edges":[
+		{"id":"7540ccbdee8f807e","fromNode":"ef16a5807f620b29","fromSide":"bottom","toNode":"f44c18476564f29f","toSide":"top"},
+		{"id":"c429d318c953eb2a","fromNode":"f44c18476564f29f","fromSide":"bottom","toNode":"4a24071b3eb3561a","toSide":"top"},
+		{"id":"d8cffbd859a7f741","fromNode":"a87b59aaaabe9012","fromSide":"left","toNode":"4a24071b3eb3561a","toSide":"right"},
+		{"id":"93d77f14c2bed01a","fromNode":"4a24071b3eb3561a","fromSide":"bottom","toNode":"bb06f3d962967228","toSide":"top"}
+	]
+}

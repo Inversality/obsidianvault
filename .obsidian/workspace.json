@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "27e8878936c7a346",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2b932fd3354d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "318a1c2db1f915ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d70becc173253fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chapter 8 and 9.canvas",
+                "viewState": {
+                  "x": -7062.032043585764,
+                  "y": -4336.1382294964615,
+                  "zoom": -1.424407958984375
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3a40afcbeae9364",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d8bd4d15b57b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f074c0a6a6c3031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "385b87e6b48648bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93c4e6644f40432c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e33f2e7771efe4fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3dd96364848df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236b755932d6f0d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 8 and 9.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5522774c8451265",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 8 and 9.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afc4e0ca8315459b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b493fc9b25328d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 8 and 9.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d70becc173253fd",
+  "lastOpenFiles": [
+    "Pasted image 20240606003639.png",
+    "Pasted image 20240605140403.png",
+    "Pasted image 20240605140402.png",
+    "Untitled 2.canvas",
+    "Chapter 8 and 9.canvas",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.md"
+  ]
+}
